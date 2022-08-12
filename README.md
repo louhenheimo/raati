@@ -1,6 +1,6 @@
-# Digiraati
+# Raati
 
-Digiraati is a open source (MIT license) "Virtual Council" software developed at Tampere University as a part of ALL-YOUTH -project. ALL-YOUTH itself is funded by Strategic Research Council (SRC) under the Academy of Finland. The package in this repository is a working early prototype of Ministry of Justice's current Digiraati -service which has, however, a different codebase.
+Raati is a "Virtual Council" software that is forked from the [Digiraati](https://github.com/ALL-YOUTH/digiraati). Like Digiraati, Raati is a open sourced (MIT license) codebase. Original Digiraati was developed at Tampere University as a part of ALL-YOUTH -project, but it's currently not being developed anymore. This fork was created to continue some further development and polishing as a personal project.
 
 ## Getting Started
 
@@ -24,7 +24,7 @@ Hardware (recommended):
 
 A step by step series of examples that tell you how to get a development env running.
 
-After cloning repository, do (under digiraati/digiraati/ -directory):
+After cloning repository, do (under raati/raati/ -directory):
 
 ```
 npm install
@@ -41,12 +41,12 @@ Make the logs directory
 ```
 mkdir logs
 ```
-You can now start the Digiraati at dev mode
+You can now start the Raati at dev mode
 
 ```
 npm run dev
 ```
-Digiraati is now running at https://localhost:1443
+Raati is now running at https://localhost:1443
 
 Congratulations! :)
 
@@ -61,7 +61,7 @@ Congratulations! :)
 ### Current developers 
 * **Petri Louhenheimo** - *Maintaining Repository* - [louhenheimo](https://github.com/louhenheimo)
 
-### Past developers
+### Past developers under the ALL-YOUTH's Digiraati -project
 * **Miikka Lehtonen** - *Development* - [soralapio](https://github.com/soralapio)
 * **Aleksi Hiltunen** - *Initial Work & Development* - [tekopakka](https://github.com/tekopakka)
 
