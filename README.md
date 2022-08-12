@@ -1,6 +1,6 @@
 # Raati
 
-Raati is a "Virtual Council" software that is forked from the [Digiraati](https://github.com/ALL-YOUTH/digiraati). Like Digiraati, Raati is a open sourced (MIT license) codebase. Original Digiraati was developed at Tampere University as a part of ALL-YOUTH -project, but it's currently not being developed anymore. This fork was created to continue some further development and polishing as a personal project.
+Raati is a "Virtual Council" software that is forked from the [Digiraati](https://github.com/ALL-YOUTH/digiraati). Like Digiraati, Raati is a open sourced (MIT license) codebase. Original Digiraati was developed at [Tampere University](https://www.tuni.fi/en) as a part of [ALL-YOUTH -project](https://www.allyouthstn.fi/en/all-youth-2/), but it's currently not being developed anymore. This fork was created to continue some further development and polishing as a personal project.
 
 ## Getting Started
 
